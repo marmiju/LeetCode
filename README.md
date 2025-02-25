@@ -8,11 +8,13 @@ A collection of LeetCode questions to ace the coding interview!\n
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/marmiju/LeetCode/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/marmiju/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/marmiju/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/marmiju/LeetCode/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/marmiju/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/marmiju/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Math
