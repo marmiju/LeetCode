@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | [0001-two-sum](https://github.com/marmiju/LeetCode/tree/master/0001-two-sum) |
 | [0228-summary-ranges](https://github.com/marmiju/LeetCode/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/marmiju/LeetCode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/marmiju/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/marmiju/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/marmiju/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/marmiju/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
