@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | [0205-isomorphic-strings](https://github.com/marmiju/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/marmiju/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/marmiju/LeetCode/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/marmiju/LeetCode/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/marmiju/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/marmiju/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/marmiju/LeetCode/tree/master/0383-ransom-note) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | ------- |
 | [0205-isomorphic-strings](https://github.com/marmiju/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/marmiju/LeetCode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/marmiju/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/marmiju/LeetCode/tree/master/0383-ransom-note) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/marmiju/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Counting
