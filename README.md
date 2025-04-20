@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | [0414-third-maximum-number](https://github.com/marmiju/LeetCode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/marmiju/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/marmiju/LeetCode/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/marmiju/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/marmiju/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/marmiju/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 ## Hash Table
