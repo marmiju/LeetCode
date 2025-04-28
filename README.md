@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/marmiju/LeetCode/tree/master/0020-valid-parentheses) |
 | [0205-isomorphic-strings](https://github.com/marmiju/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/marmiju/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/marmiju/LeetCode/tree/master/0290-word-pattern) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/marmiju/LeetCode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/marmiju/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/marmiju/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/marmiju/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
