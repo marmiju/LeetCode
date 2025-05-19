@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/marmiju/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/marmiju/LeetCode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/marmiju/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0495-teemo-attacking](https://github.com/marmiju/LeetCode/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/marmiju/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/marmiju/LeetCode/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/marmiju/LeetCode/tree/master/0503-next-greater-element-ii) |
@@ -192,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview!\n
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/marmiju/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
+## Simulation
+|  |
+| ------- |
+| [0495-teemo-attacking](https://github.com/marmiju/LeetCode/tree/master/0495-teemo-attacking) |
 <!---LeetCode Topics End-->
