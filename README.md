@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | [0011-container-with-most-water](https://github.com/marmiju/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/marmiju/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/marmiju/LeetCode/tree/master/0016-3sum-closest) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/marmiju/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0202-happy-number](https://github.com/marmiju/LeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/marmiju/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/marmiju/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | ------- |
 | [0013-roman-to-integer](https://github.com/marmiju/LeetCode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/marmiju/LeetCode/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/marmiju/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/marmiju/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/marmiju/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/marmiju/LeetCode/tree/master/0290-word-pattern) |
@@ -198,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview!\n
 |  |
 | ------- |
 | [0495-teemo-attacking](https://github.com/marmiju/LeetCode/tree/master/0495-teemo-attacking) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/marmiju/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
