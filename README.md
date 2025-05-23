@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | [0745-find-smallest-letter-greater-than-target](https://github.com/marmiju/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/marmiju/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/marmiju/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/marmiju/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/marmiju/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [3324-split-the-array](https://github.com/marmiju/LeetCode/tree/master/3324-split-the-array) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/marmiju/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | [0069-sqrtx](https://github.com/marmiju/LeetCode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/marmiju/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/marmiju/LeetCode/tree/master/0268-missing-number) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/marmiju/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/marmiju/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Binary Search
 |  |
