@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | [0013-roman-to-integer](https://github.com/marmiju/LeetCode/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/marmiju/LeetCode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/marmiju/LeetCode/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/marmiju/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/marmiju/LeetCode/tree/master/0268-missing-number) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/marmiju/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/marmiju/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/marmiju/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/marmiju/LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/marmiju/LeetCode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/marmiju/LeetCode/tree/master/0645-set-mismatch) |
@@ -213,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview!\n
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/marmiju/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/marmiju/LeetCode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
