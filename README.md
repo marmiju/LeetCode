@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | [0674-longest-continuous-increasing-subsequence](https://github.com/marmiju/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/marmiju/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/marmiju/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/marmiju/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [3324-split-the-array](https://github.com/marmiju/LeetCode/tree/master/3324-split-the-array) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/marmiju/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/marmiju/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | [0496-next-greater-element-i](https://github.com/marmiju/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/marmiju/LeetCode/tree/master/0500-keyboard-row) |
 | [0645-set-mismatch](https://github.com/marmiju/LeetCode/tree/master/0645-set-mismatch) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/marmiju/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/marmiju/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3324-split-the-array](https://github.com/marmiju/LeetCode/tree/master/3324-split-the-array) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/marmiju/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
