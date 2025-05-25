@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | [0674-longest-continuous-increasing-subsequence](https://github.com/marmiju/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/marmiju/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/marmiju/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0924-fair-candy-swap](https://github.com/marmiju/LeetCode/tree/master/0924-fair-candy-swap) |
 | [1018-largest-perimeter-triangle](https://github.com/marmiju/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/marmiju/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/marmiju/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | [0496-next-greater-element-i](https://github.com/marmiju/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/marmiju/LeetCode/tree/master/0500-keyboard-row) |
 | [0645-set-mismatch](https://github.com/marmiju/LeetCode/tree/master/0645-set-mismatch) |
+| [0924-fair-candy-swap](https://github.com/marmiju/LeetCode/tree/master/0924-fair-candy-swap) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/marmiju/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/marmiju/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2428-equal-row-and-column-pairs](https://github.com/marmiju/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | [0350-intersection-of-two-arrays-ii](https://github.com/marmiju/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/marmiju/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/marmiju/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0924-fair-candy-swap](https://github.com/marmiju/LeetCode/tree/master/0924-fair-candy-swap) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -114,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | [0455-assign-cookies](https://github.com/marmiju/LeetCode/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/marmiju/LeetCode/tree/master/0506-relative-ranks) |
 | [0645-set-mismatch](https://github.com/marmiju/LeetCode/tree/master/0645-set-mismatch) |
+| [0924-fair-candy-swap](https://github.com/marmiju/LeetCode/tree/master/0924-fair-candy-swap) |
 | [1018-largest-perimeter-triangle](https://github.com/marmiju/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 ## Two Pointers
 |  |
