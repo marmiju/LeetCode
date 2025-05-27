@@ -9,7 +9,6 @@ class Solution:
                 ans = max(ans,temp)
                 temp = 0
 
-
-        return max(ans,temp)         
+        return max(ans,temp)        
 
         
