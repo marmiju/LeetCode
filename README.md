@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | [0500-keyboard-row](https://github.com/marmiju/LeetCode/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/marmiju/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/marmiju/LeetCode/tree/master/0506-relative-ranks) |
+| [0628-maximum-product-of-three-numbers](https://github.com/marmiju/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/marmiju/LeetCode/tree/master/0645-set-mismatch) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/marmiju/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/marmiju/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | [0202-happy-number](https://github.com/marmiju/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/marmiju/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/marmiju/LeetCode/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/marmiju/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1018-largest-perimeter-triangle](https://github.com/marmiju/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/marmiju/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/marmiju/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | [0414-third-maximum-number](https://github.com/marmiju/LeetCode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/marmiju/LeetCode/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/marmiju/LeetCode/tree/master/0506-relative-ranks) |
+| [0628-maximum-product-of-three-numbers](https://github.com/marmiju/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/marmiju/LeetCode/tree/master/0645-set-mismatch) |
 | [0924-fair-candy-swap](https://github.com/marmiju/LeetCode/tree/master/0924-fair-candy-swap) |
 | [1018-largest-perimeter-triangle](https://github.com/marmiju/LeetCode/tree/master/1018-largest-perimeter-triangle) |
