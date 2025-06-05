@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | [0387-first-unique-character-in-a-string](https://github.com/marmiju/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/marmiju/LeetCode/tree/master/0389-find-the-difference) |
 | [0500-keyboard-row](https://github.com/marmiju/LeetCode/tree/master/0500-keyboard-row) |
+| [0742-to-lower-case](https://github.com/marmiju/LeetCode/tree/master/0742-to-lower-case) |
 | [0952-word-subsets](https://github.com/marmiju/LeetCode/tree/master/0952-word-subsets) |
 | [0953-reverse-only-letters](https://github.com/marmiju/LeetCode/tree/master/0953-reverse-only-letters) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/marmiju/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
