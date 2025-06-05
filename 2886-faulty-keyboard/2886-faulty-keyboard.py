@@ -1,11 +1,11 @@
 class Solution:
     def finalString(self, s: str) -> str:
         result = ''
-        for i in range(len(s)):
-            if s[i] == 'i':
-               result =result[::-1]
+        for char in s:
+            if char == 'i':
+               result =result [::-1]
             else:
-                result = result + s[i]
+                result = result + char
         return result
 
 
