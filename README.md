@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/marmiju/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2886-faulty-keyboard](https://github.com/marmiju/LeetCode/tree/master/2886-faulty-keyboard) |
 | [3194-find-words-containing-character](https://github.com/marmiju/LeetCode/tree/master/3194-find-words-containing-character) |
+| [3617-find-the-original-typed-string-i](https://github.com/marmiju/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 ## Counting
 |  |
 | ------- |
