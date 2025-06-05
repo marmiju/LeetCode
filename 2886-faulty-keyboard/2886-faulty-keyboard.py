@@ -1,12 +1,12 @@
 class Solution:
     def finalString(self, s: str) -> str:
-        result = ''
+        new_s = ""
         for char in s:
-            if char == 'i':
-               result =result [::-1]
+            if char == "i":
+                new_s = new_s[::-1]
             else:
-                result = result + char
-        return result
+                new_s = new_s + char
+        return new_s
 
 
         
