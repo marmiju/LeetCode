@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | [0035-search-insert-position](https://github.com/marmiju/LeetCode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/marmiju/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0228-summary-ranges](https://github.com/marmiju/LeetCode/tree/master/0228-summary-ranges) |
+| [0238-product-of-array-except-self](https://github.com/marmiju/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/marmiju/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/marmiju/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/marmiju/LeetCode/tree/master/0283-move-zeroes) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/marmiju/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/marmiju/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/marmiju/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Simulation
