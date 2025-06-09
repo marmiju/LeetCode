@@ -3,17 +3,14 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        none_zero_index = 0
-
-        for i in range(len(nums)) :
-            if nums[i] != 0:
-                nums[none_zero_index] = nums[i]
-                if none_zero_index != i:
-                    nums[i] = 0
-                none_zero_index += 1
-
-
-
-
-
+        moves = 0
+        for i,num in enumerate(nums):
+            if num != 0:
+                nums[moves] = num
+                moves += 1
+        
+        for i in range(moves,len(nums)):
+            nums[i] = 0
+        
+        return nums
         
