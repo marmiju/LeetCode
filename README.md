@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | [0345-reverse-vowels-of-a-string](https://github.com/marmiju/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/marmiju/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/marmiju/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/marmiju/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/marmiju/LeetCode/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/marmiju/LeetCode/tree/master/0455-assign-cookies) |
 | [0953-reverse-only-letters](https://github.com/marmiju/LeetCode/tree/master/0953-reverse-only-letters) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | [0383-ransom-note](https://github.com/marmiju/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/marmiju/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/marmiju/LeetCode/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/marmiju/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/marmiju/LeetCode/tree/master/0443-string-compression) |
 | [0500-keyboard-row](https://github.com/marmiju/LeetCode/tree/master/0500-keyboard-row) |
 | [0742-to-lower-case](https://github.com/marmiju/LeetCode/tree/master/0742-to-lower-case) |
@@ -291,4 +293,8 @@ A collection of LeetCode questions to ace the coding interview!\n
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/marmiju/LeetCode/tree/master/0561-array-partition) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/marmiju/LeetCode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
