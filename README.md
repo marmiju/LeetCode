@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | [1146-greatest-common-divisor-of-strings](https://github.com/marmiju/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/marmiju/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1542-consecutive-characters](https://github.com/marmiju/LeetCode/tree/master/1542-consecutive-characters) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/marmiju/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/marmiju/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1954-replace-all-digits-with-characters](https://github.com/marmiju/LeetCode/tree/master/1954-replace-all-digits-with-characters) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/marmiju/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -297,4 +298,8 @@ A collection of LeetCode questions to ace the coding interview!\n
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/marmiju/LeetCode/tree/master/0392-is-subsequence) |
+## Sliding Window
+|  |
+| ------- |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/marmiju/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
