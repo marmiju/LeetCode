@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | [0924-fair-candy-swap](https://github.com/marmiju/LeetCode/tree/master/0924-fair-candy-swap) |
 | [0952-word-subsets](https://github.com/marmiju/LeetCode/tree/master/0952-word-subsets) |
 | [1018-largest-perimeter-triangle](https://github.com/marmiju/LeetCode/tree/master/1018-largest-perimeter-triangle) |
+| [1046-max-consecutive-ones-iii](https://github.com/marmiju/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/marmiju/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/marmiju/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/marmiju/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | [0745-find-smallest-letter-greater-than-target](https://github.com/marmiju/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/marmiju/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0924-fair-candy-swap](https://github.com/marmiju/LeetCode/tree/master/0924-fair-candy-swap) |
+| [1046-max-consecutive-ones-iii](https://github.com/marmiju/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/marmiju/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [1046-max-consecutive-ones-iii](https://github.com/marmiju/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/marmiju/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/marmiju/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Simulation
@@ -302,5 +305,6 @@ A collection of LeetCode questions to ace the coding interview!\n
 ## Sliding Window
 |  |
 | ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/marmiju/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/marmiju/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
