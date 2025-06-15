@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | [0645-set-mismatch](https://github.com/marmiju/LeetCode/tree/master/0645-set-mismatch) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/marmiju/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/marmiju/LeetCode/tree/master/0682-baseball-game) |
+| [0724-find-pivot-index](https://github.com/marmiju/LeetCode/tree/master/0724-find-pivot-index) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/marmiju/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/marmiju/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/marmiju/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/marmiju/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/marmiju/LeetCode/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/marmiju/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/marmiju/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1833-find-the-highest-altitude](https://github.com/marmiju/LeetCode/tree/master/1833-find-the-highest-altitude) |
