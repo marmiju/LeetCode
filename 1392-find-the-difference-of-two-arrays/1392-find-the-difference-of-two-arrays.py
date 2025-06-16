@@ -6,8 +6,6 @@ class Solution:
         unique1 = list(set1 - set2)
         unique2 = list(set2 - set1)
 
-
-        
         return [unique1,unique2]
 
         
