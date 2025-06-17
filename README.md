@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | [0952-word-subsets](https://github.com/marmiju/LeetCode/tree/master/0952-word-subsets) |
 | [1018-largest-perimeter-triangle](https://github.com/marmiju/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1046-max-consecutive-ones-iii](https://github.com/marmiju/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1319-unique-number-of-occurrences](https://github.com/marmiju/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/marmiju/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/marmiju/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/marmiju/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | [0645-set-mismatch](https://github.com/marmiju/LeetCode/tree/master/0645-set-mismatch) |
 | [0924-fair-candy-swap](https://github.com/marmiju/LeetCode/tree/master/0924-fair-candy-swap) |
 | [0952-word-subsets](https://github.com/marmiju/LeetCode/tree/master/0952-word-subsets) |
+| [1319-unique-number-of-occurrences](https://github.com/marmiju/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/marmiju/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/marmiju/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/marmiju/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
