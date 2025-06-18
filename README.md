@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | [0952-word-subsets](https://github.com/marmiju/LeetCode/tree/master/0952-word-subsets) |
 | [1319-unique-number-of-occurrences](https://github.com/marmiju/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/marmiju/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1777-determine-if-two-strings-are-close](https://github.com/marmiju/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/marmiju/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/marmiju/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2428-equal-row-and-column-pairs](https://github.com/marmiju/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | [0748-largest-number-at-least-twice-of-others](https://github.com/marmiju/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0924-fair-candy-swap](https://github.com/marmiju/LeetCode/tree/master/0924-fair-candy-swap) |
 | [1018-largest-perimeter-triangle](https://github.com/marmiju/LeetCode/tree/master/1018-largest-perimeter-triangle) |
+| [1777-determine-if-two-strings-are-close](https://github.com/marmiju/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 ## Two Pointers
 |  |
 | ------- |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | [1537-maximum-score-after-splitting-a-string](https://github.com/marmiju/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1542-consecutive-characters](https://github.com/marmiju/LeetCode/tree/master/1542-consecutive-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/marmiju/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1777-determine-if-two-strings-are-close](https://github.com/marmiju/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/marmiju/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1954-replace-all-digits-with-characters](https://github.com/marmiju/LeetCode/tree/master/1954-replace-all-digits-with-characters) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/marmiju/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | ------- |
 | [0383-ransom-note](https://github.com/marmiju/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/marmiju/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [1777-determine-if-two-strings-are-close](https://github.com/marmiju/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/marmiju/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3324-split-the-array](https://github.com/marmiju/LeetCode/tree/master/3324-split-the-array) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/marmiju/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
