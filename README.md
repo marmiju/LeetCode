@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | [0094-binary-tree-inorder-traversal](https://github.com/marmiju/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/marmiju/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/marmiju/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0225-implement-stack-using-queues](https://github.com/marmiju/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/marmiju/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/marmiju/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/marmiju/LeetCode/tree/master/0682-baseball-game) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/marmiju/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/marmiju/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Greedy
 |  |
@@ -331,4 +333,8 @@ A collection of LeetCode questions to ace the coding interview!\n
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/marmiju/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/marmiju/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/marmiju/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/marmiju/LeetCode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
