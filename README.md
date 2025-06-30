@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/marmiju/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/marmiju/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0969-number-of-recent-calls](https://github.com/marmiju/LeetCode/tree/master/0969-number-of-recent-calls) |
 ## Greedy
 |  |
 | ------- |
@@ -343,4 +344,9 @@ A collection of LeetCode questions to ace the coding interview!\n
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/marmiju/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0969-number-of-recent-calls](https://github.com/marmiju/LeetCode/tree/master/0969-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/marmiju/LeetCode/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
