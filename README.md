@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | [0506-relative-ranks](https://github.com/marmiju/LeetCode/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/marmiju/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/marmiju/LeetCode/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/marmiju/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/marmiju/LeetCode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/marmiju/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/marmiju/LeetCode/tree/master/0645-set-mismatch) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | [0496-next-greater-element-i](https://github.com/marmiju/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/marmiju/LeetCode/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/marmiju/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/marmiju/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/marmiju/LeetCode/tree/master/0645-set-mismatch) |
 | [0924-fair-candy-swap](https://github.com/marmiju/LeetCode/tree/master/0924-fair-candy-swap) |
 | [0952-word-subsets](https://github.com/marmiju/LeetCode/tree/master/0952-word-subsets) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | [0455-assign-cookies](https://github.com/marmiju/LeetCode/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/marmiju/LeetCode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/marmiju/LeetCode/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/marmiju/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/marmiju/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/marmiju/LeetCode/tree/master/0645-set-mismatch) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/marmiju/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
@@ -219,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | ------- |
 | [0383-ransom-note](https://github.com/marmiju/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/marmiju/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/marmiju/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1777-determine-if-two-strings-are-close](https://github.com/marmiju/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/marmiju/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3324-split-the-array](https://github.com/marmiju/LeetCode/tree/master/3324-split-the-array) |
@@ -337,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 ## Sliding Window
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/marmiju/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1046-max-consecutive-ones-iii](https://github.com/marmiju/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/marmiju/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/marmiju/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
