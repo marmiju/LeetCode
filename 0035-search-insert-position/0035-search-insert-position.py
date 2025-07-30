@@ -1,24 +1,15 @@
 class Solution:
     def searchInsert(self, nums: List[int], target: int) -> int:
+        st = 0
+        end = len(nums) -1
 
-        freq = {}
+        while(st<=end):
+            mid = st + (end-st)//2
+            if nums[mid] == target:
+                return mid
+            elif nums[mid] < target:
+                st = mid +1
+            elif nums[mid] > target:
+                end = mid -1
 
-        for i,val in enumerate(nums):
-            freq[val] = i
-            if i > 0 and nums[i] > target and nums[i-1]< target:
-                return i 
-        
-        if target in freq:
-            return freq[target]
-        
-        max_val = max(nums)
-        if max_val < target:
-            return len(nums)
-        min_val = min(nums)
-        if min_val > target:
-            return 0
-
-        
-        
-
-        
+        return st     
