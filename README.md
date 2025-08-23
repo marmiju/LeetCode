@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/marmiju/LeetCode/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/marmiju/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/marmiju/LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/marmiju/LeetCode/tree/master/0389-find-the-difference) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 ## Divide and Conquer
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/marmiju/LeetCode/tree/master/0190-reverse-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/marmiju/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Prefix Sum
 |  |
