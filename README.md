@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | [0485-max-consecutive-ones](https://github.com/marmiju/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/marmiju/LeetCode/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/marmiju/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0498-diagonal-traverse](https://github.com/marmiju/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/marmiju/LeetCode/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/marmiju/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/marmiju/LeetCode/tree/master/0506-relative-ranks) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | [0074-search-a-2d-matrix](https://github.com/marmiju/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/marmiju/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0463-island-perimeter](https://github.com/marmiju/LeetCode/tree/master/0463-island-perimeter) |
+| [0498-diagonal-traverse](https://github.com/marmiju/LeetCode/tree/master/0498-diagonal-traverse) |
 | [2428-equal-row-and-column-pairs](https://github.com/marmiju/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 ## Divide and Conquer
 |  |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 |  |
 | ------- |
 | [0495-teemo-attacking](https://github.com/marmiju/LeetCode/tree/master/0495-teemo-attacking) |
+| [0498-diagonal-traverse](https://github.com/marmiju/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/marmiju/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/marmiju/LeetCode/tree/master/0735-asteroid-collision) |
 | [2428-equal-row-and-column-pairs](https://github.com/marmiju/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
