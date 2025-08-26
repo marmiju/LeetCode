@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/marmiju/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3194-find-words-containing-character](https://github.com/marmiju/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/marmiju/LeetCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/marmiju/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3324-split-the-array](https://github.com/marmiju/LeetCode/tree/master/3324-split-the-array) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/marmiju/LeetCode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/marmiju/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
