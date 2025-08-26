@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | [0035-search-insert-position](https://github.com/marmiju/LeetCode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/marmiju/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/marmiju/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/marmiju/LeetCode/tree/master/0169-majority-element) |
 | [0228-summary-ranges](https://github.com/marmiju/LeetCode/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/marmiju/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/marmiju/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | ------- |
 | [0001-two-sum](https://github.com/marmiju/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/marmiju/LeetCode/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/marmiju/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/marmiju/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/marmiju/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/marmiju/LeetCode/tree/master/0242-valid-anagram) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | ------- |
 | [0015-3sum](https://github.com/marmiju/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/marmiju/LeetCode/tree/master/0016-3sum-closest) |
+| [0169-majority-element](https://github.com/marmiju/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/marmiju/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/marmiju/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/marmiju/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/marmiju/LeetCode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/marmiju/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/marmiju/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/marmiju/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
@@ -317,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/marmiju/LeetCode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/marmiju/LeetCode/tree/master/0190-reverse-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/marmiju/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Prefix Sum
