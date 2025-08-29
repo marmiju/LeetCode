@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | [0074-search-a-2d-matrix](https://github.com/marmiju/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/marmiju/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/marmiju/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/marmiju/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/marmiju/LeetCode/tree/master/0169-majority-element) |
 | [0228-summary-ranges](https://github.com/marmiju/LeetCode/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/marmiju/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/marmiju/LeetCode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/marmiju/LeetCode/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/marmiju/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/marmiju/LeetCode/tree/master/0268-missing-number) |
