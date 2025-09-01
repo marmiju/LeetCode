@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/marmiju/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/marmiju/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1833-find-the-highest-altitude](https://github.com/marmiju/LeetCode/tree/master/1833-find-the-highest-altitude) |
+| [1917-maximum-average-pass-ratio](https://github.com/marmiju/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/marmiju/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/marmiju/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2551-apply-operations-to-an-array](https://github.com/marmiju/LeetCode/tree/master/2551-apply-operations-to-an-array) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | [0561-array-partition](https://github.com/marmiju/LeetCode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/marmiju/LeetCode/tree/master/0605-can-place-flowers) |
 | [1018-largest-perimeter-triangle](https://github.com/marmiju/LeetCode/tree/master/1018-largest-perimeter-triangle) |
+| [1917-maximum-average-pass-ratio](https://github.com/marmiju/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/marmiju/LeetCode/tree/master/0506-relative-ranks) |
+| [1917-maximum-average-pass-ratio](https://github.com/marmiju/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 ## Matrix
 |  |
 | ------- |
