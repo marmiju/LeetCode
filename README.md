@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | [0137-single-number-ii](https://github.com/marmiju/LeetCode/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/marmiju/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/marmiju/LeetCode/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/marmiju/LeetCode/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/marmiju/LeetCode/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/marmiju/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/marmiju/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | [0169-majority-element](https://github.com/marmiju/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/marmiju/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/marmiju/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/marmiju/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/marmiju/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/marmiju/LeetCode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/marmiju/LeetCode/tree/master/0290-word-pattern) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | [0016-3sum-closest](https://github.com/marmiju/LeetCode/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/marmiju/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/marmiju/LeetCode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/marmiju/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/marmiju/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/marmiju/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/marmiju/LeetCode/tree/master/0349-intersection-of-two-arrays) |
