@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | [0268-missing-number](https://github.com/marmiju/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/marmiju/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/marmiju/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0374-guess-number-higher-or-lower](https://github.com/marmiju/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/marmiju/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/marmiju/LeetCode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/marmiju/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -460,4 +461,8 @@ A collection of LeetCode questions to ace the coding interview!\n
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/marmiju/LeetCode/tree/master/1013-fibonacci-number) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/marmiju/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
