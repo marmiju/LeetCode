@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/marmiju/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/marmiju/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/marmiju/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3830-find-closest-person](https://github.com/marmiju/LeetCode/tree/master/3830-find-closest-person) |
 ## Binary Search
 |  |
 | ------- |
