@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | [0389-find-the-difference](https://github.com/marmiju/LeetCode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/marmiju/LeetCode/tree/master/0645-set-mismatch) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/marmiju/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/marmiju/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Sorting
 |  |
 | ------- |
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 ## Enumeration
 |  |
 | ------- |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/marmiju/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/marmiju/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Memoization
 |  |
@@ -467,4 +469,8 @@ A collection of LeetCode questions to ace the coding interview!\n
 | ------- |
 | [0278-first-bad-version](https://github.com/marmiju/LeetCode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/marmiju/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+## Brainteaser
+|  |
+| ------- |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/marmiju/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 <!---LeetCode Topics End-->
