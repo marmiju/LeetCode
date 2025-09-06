@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/marmiju/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/marmiju/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/marmiju/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/marmiju/LeetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/marmiju/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Hash Table
 |  |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/marmiju/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/marmiju/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/marmiju/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/marmiju/LeetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3830-find-closest-person](https://github.com/marmiju/LeetCode/tree/master/3830-find-closest-person) |
 ## Binary Search
 |  |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | [0645-set-mismatch](https://github.com/marmiju/LeetCode/tree/master/0645-set-mismatch) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/marmiju/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/marmiju/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/marmiju/LeetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Sorting
 |  |
 | ------- |
