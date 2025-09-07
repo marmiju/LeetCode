@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | [0035-search-insert-position](https://github.com/marmiju/LeetCode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/marmiju/LeetCode/tree/master/0036-valid-sudoku) |
 | [0053-maximum-subarray](https://github.com/marmiju/LeetCode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/marmiju/LeetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/marmiju/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/marmiju/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/marmiju/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/marmiju/LeetCode/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/marmiju/LeetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/marmiju/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/marmiju/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0463-island-perimeter](https://github.com/marmiju/LeetCode/tree/master/0463-island-perimeter) |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/marmiju/LeetCode/tree/master/0054-spiral-matrix) |
 | [0495-teemo-attacking](https://github.com/marmiju/LeetCode/tree/master/0495-teemo-attacking) |
 | [0498-diagonal-traverse](https://github.com/marmiju/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/marmiju/LeetCode/tree/master/0682-baseball-game) |
