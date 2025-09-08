@@ -5,11 +5,13 @@ class Solution:
         end = n-1
 
         while start < end:
-            if nums[start] + nums[end] > target:
+            _sum = nums[start] + nums[end]
+            if _sum == target:
+                return [start+1,end+1] 
+            elif  _sum > target:
                 end -= 1
-            elif nums[start] + nums[end] < target:
-                start +=1
             else:
-                return [start+1, end+1]  
+                start +=1
+             
 
         
