@@ -14,12 +14,12 @@ class Solution:
         return 1 + ((num - 1) % 9)
         # return self.isSingle(num)
 
-        #############################################################
-        #     here have with 2 solution one is manual with          #
-        #     recurssion and one just applying digital root         #
-        #     formula                                               #
-        #     note: commented one is manual                         #
-        #############################################################
+        #################################################################
+        #     here have with 2 solution one is manual with              #
+        #     recurssion and one just applying digital root             #
+        #     formula                                                   #
+        #     note: commented one is manual || with formula beat 100%   #
+        #################################################################
 
             
         
