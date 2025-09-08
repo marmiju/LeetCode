@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | [0189-rotate-array](https://github.com/marmiju/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/marmiju/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/marmiju/LeetCode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/marmiju/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/marmiju/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/marmiju/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/marmiju/LeetCode/tree/master/0342-power-of-four) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/marmiju/LeetCode/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/marmiju/LeetCode/tree/master/0258-add-digits) |
 | [0495-teemo-attacking](https://github.com/marmiju/LeetCode/tree/master/0495-teemo-attacking) |
 | [0498-diagonal-traverse](https://github.com/marmiju/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/marmiju/LeetCode/tree/master/0682-baseball-game) |
@@ -506,4 +508,8 @@ A collection of LeetCode questions to ace the coding interview!\n
 |  |
 | ------- |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/marmiju/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/marmiju/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
