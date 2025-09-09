@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | [1392-find-the-difference-of-two-arrays](https://github.com/marmiju/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/marmiju/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1777-determine-if-two-strings-are-close](https://github.com/marmiju/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/marmiju/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/marmiju/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/marmiju/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/marmiju/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | [1777-determine-if-two-strings-are-close](https://github.com/marmiju/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/marmiju/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1954-replace-all-digits-with-characters](https://github.com/marmiju/LeetCode/tree/master/1954-replace-all-digits-with-characters) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/marmiju/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/marmiju/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/marmiju/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/marmiju/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | [0387-first-unique-character-in-a-string](https://github.com/marmiju/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/marmiju/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1777-determine-if-two-strings-are-close](https://github.com/marmiju/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/marmiju/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/marmiju/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/marmiju/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [3324-split-the-array](https://github.com/marmiju/LeetCode/tree/master/3324-split-the-array) |
@@ -471,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | [1046-max-consecutive-ones-iii](https://github.com/marmiju/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/marmiju/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/marmiju/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/marmiju/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/marmiju/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Design
 |  |
