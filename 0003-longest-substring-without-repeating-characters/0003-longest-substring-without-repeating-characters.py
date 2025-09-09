@@ -6,10 +6,10 @@ class Solution:
         left = 0
 
         for right in range(n):
-            while s[right] in lngs:   
+            while s[right] in lngs:
                 lngs.remove(s[left])
-                left += 1
+                left+=1
             lngs.add(s[right])
-            max_len = max(max_len, right - left + 1)
+            max_len =max(max_len, right -left +1)
 
         return max_len
