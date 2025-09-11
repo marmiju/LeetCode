@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | [1018-largest-perimeter-triangle](https://github.com/marmiju/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/marmiju/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1777-determine-if-two-strings-are-close](https://github.com/marmiju/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
+| [2887-sort-vowels-in-a-string](https://github.com/marmiju/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/marmiju/LeetCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/marmiju/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Two Pointers
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | [2190-count-common-words-with-one-occurrence](https://github.com/marmiju/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2470-removing-stars-from-a-string](https://github.com/marmiju/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2886-faulty-keyboard](https://github.com/marmiju/LeetCode/tree/master/2886-faulty-keyboard) |
+| [2887-sort-vowels-in-a-string](https://github.com/marmiju/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3194-find-words-containing-character](https://github.com/marmiju/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3617-find-the-original-typed-string-i](https://github.com/marmiju/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 ## Counting
