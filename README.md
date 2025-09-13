@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/marmiju/LeetCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3324-split-the-array](https://github.com/marmiju/LeetCode/tree/master/3324-split-the-array) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/marmiju/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/marmiju/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |
 | ------- |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | [2887-sort-vowels-in-a-string](https://github.com/marmiju/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3194-find-words-containing-character](https://github.com/marmiju/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3617-find-the-original-typed-string-i](https://github.com/marmiju/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/marmiju/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
 | ------- |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | [2190-count-common-words-with-one-occurrence](https://github.com/marmiju/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [3324-split-the-array](https://github.com/marmiju/LeetCode/tree/master/3324-split-the-array) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/marmiju/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/marmiju/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Stack
 |  |
 | ------- |
