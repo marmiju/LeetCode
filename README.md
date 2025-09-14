@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | [0941-sort-array-by-parity](https://github.com/marmiju/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0952-word-subsets](https://github.com/marmiju/LeetCode/tree/master/0952-word-subsets) |
 | [0958-sort-array-by-parity-ii](https://github.com/marmiju/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
+| [1006-vowel-spellchecker](https://github.com/marmiju/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/marmiju/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1046-max-consecutive-ones-iii](https://github.com/marmiju/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/marmiju/LeetCode/tree/master/1319-unique-number-of-occurrences) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | [0837-most-common-word](https://github.com/marmiju/LeetCode/tree/master/0837-most-common-word) |
 | [0924-fair-candy-swap](https://github.com/marmiju/LeetCode/tree/master/0924-fair-candy-swap) |
 | [0952-word-subsets](https://github.com/marmiju/LeetCode/tree/master/0952-word-subsets) |
+| [1006-vowel-spellchecker](https://github.com/marmiju/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1319-unique-number-of-occurrences](https://github.com/marmiju/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/marmiju/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/marmiju/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | [0837-most-common-word](https://github.com/marmiju/LeetCode/tree/master/0837-most-common-word) |
 | [0952-word-subsets](https://github.com/marmiju/LeetCode/tree/master/0952-word-subsets) |
 | [0953-reverse-only-letters](https://github.com/marmiju/LeetCode/tree/master/0953-reverse-only-letters) |
+| [1006-vowel-spellchecker](https://github.com/marmiju/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/marmiju/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1205-defanging-an-ip-address](https://github.com/marmiju/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/marmiju/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
