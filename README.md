@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | [0009-palindrome-number](https://github.com/marmiju/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/marmiju/LeetCode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/marmiju/LeetCode/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/marmiju/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/marmiju/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/marmiju/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/marmiju/LeetCode/tree/master/0202-happy-number) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/marmiju/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/marmiju/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/marmiju/LeetCode/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/marmiju/LeetCode/tree/master/0190-reverse-bits) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/marmiju/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/marmiju/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/marmiju/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/marmiju/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/marmiju/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/marmiju/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/marmiju/LeetCode/tree/master/0205-isomorphic-strings) |
@@ -445,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/marmiju/LeetCode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/marmiju/LeetCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/marmiju/LeetCode/tree/master/0258-add-digits) |
 | [0495-teemo-attacking](https://github.com/marmiju/LeetCode/tree/master/0495-teemo-attacking) |
 | [0498-diagonal-traverse](https://github.com/marmiju/LeetCode/tree/master/0498-diagonal-traverse) |
