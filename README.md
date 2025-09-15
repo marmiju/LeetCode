@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | [0924-fair-candy-swap](https://github.com/marmiju/LeetCode/tree/master/0924-fair-candy-swap) |
 | [0952-word-subsets](https://github.com/marmiju/LeetCode/tree/master/0952-word-subsets) |
 | [1006-vowel-spellchecker](https://github.com/marmiju/LeetCode/tree/master/1006-vowel-spellchecker) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/marmiju/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1319-unique-number-of-occurrences](https://github.com/marmiju/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/marmiju/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/marmiju/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | [1006-vowel-spellchecker](https://github.com/marmiju/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/marmiju/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1205-defanging-an-ip-address](https://github.com/marmiju/LeetCode/tree/master/1205-defanging-an-ip-address) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/marmiju/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/marmiju/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1542-consecutive-characters](https://github.com/marmiju/LeetCode/tree/master/1542-consecutive-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/marmiju/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
