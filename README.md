@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | [1917-maximum-average-pass-ratio](https://github.com/marmiju/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/marmiju/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/marmiju/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/marmiju/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/marmiju/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2551-apply-operations-to-an-array](https://github.com/marmiju/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/marmiju/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/marmiju/LeetCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/marmiju/LeetCode/tree/master/1448-maximum-69-number) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/marmiju/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/marmiju/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/marmiju/LeetCode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/marmiju/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/marmiju/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | [0503-next-greater-element-ii](https://github.com/marmiju/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/marmiju/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/marmiju/LeetCode/tree/master/0735-asteroid-collision) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/marmiju/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2470-removing-stars-from-a-string](https://github.com/marmiju/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Tree
 |  |
@@ -560,4 +563,5 @@ A collection of LeetCode questions to ace the coding interview!\n
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/marmiju/LeetCode/tree/master/0258-add-digits) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/marmiju/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 <!---LeetCode Topics End-->
