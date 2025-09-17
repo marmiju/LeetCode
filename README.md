@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | [2190-count-common-words-with-one-occurrence](https://github.com/marmiju/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/marmiju/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/marmiju/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
+| [2429-design-a-food-rating-system](https://github.com/marmiju/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2551-apply-operations-to-an-array](https://github.com/marmiju/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/marmiju/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/marmiju/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/marmiju/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/marmiju/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2428-equal-row-and-column-pairs](https://github.com/marmiju/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
+| [2429-design-a-food-rating-system](https://github.com/marmiju/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/marmiju/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/marmiju/LeetCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3324-split-the-array](https://github.com/marmiju/LeetCode/tree/master/3324-split-the-array) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/marmiju/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/marmiju/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/marmiju/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2429-design-a-food-rating-system](https://github.com/marmiju/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2470-removing-stars-from-a-string](https://github.com/marmiju/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2886-faulty-keyboard](https://github.com/marmiju/LeetCode/tree/master/2886-faulty-keyboard) |
 | [2887-sort-vowels-in-a-string](https://github.com/marmiju/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
@@ -424,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | [0506-relative-ranks](https://github.com/marmiju/LeetCode/tree/master/0506-relative-ranks) |
 | [0948-sort-an-array](https://github.com/marmiju/LeetCode/tree/master/0948-sort-an-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/marmiju/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
+| [2429-design-a-food-rating-system](https://github.com/marmiju/LeetCode/tree/master/2429-design-a-food-rating-system) |
 ## Matrix
 |  |
 | ------- |
@@ -522,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/marmiju/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0969-number-of-recent-calls](https://github.com/marmiju/LeetCode/tree/master/0969-number-of-recent-calls) |
+| [2429-design-a-food-rating-system](https://github.com/marmiju/LeetCode/tree/master/2429-design-a-food-rating-system) |
 ## Data Stream
 |  |
 | ------- |
@@ -584,4 +589,8 @@ A collection of LeetCode questions to ace the coding interview!\n
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/marmiju/LeetCode/tree/master/0948-sort-an-array) |
+## Ordered Set
+|  |
+| ------- |
+| [2429-design-a-food-rating-system](https://github.com/marmiju/LeetCode/tree/master/2429-design-a-food-rating-system) |
 <!---LeetCode Topics End-->
