@@ -593,4 +593,8 @@ A collection of LeetCode questions to ace the coding interview!\n
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/marmiju/LeetCode/tree/master/2429-design-a-food-rating-system) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/marmiju/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
