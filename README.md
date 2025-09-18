@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/marmiju/LeetCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3324-split-the-array](https://github.com/marmiju/LeetCode/tree/master/3324-split-the-array) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/marmiju/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+| [3678-design-task-manager](https://github.com/marmiju/LeetCode/tree/master/3678-design-task-manager) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/marmiju/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |
@@ -428,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | [0948-sort-an-array](https://github.com/marmiju/LeetCode/tree/master/0948-sort-an-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/marmiju/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2429-design-a-food-rating-system](https://github.com/marmiju/LeetCode/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/marmiju/LeetCode/tree/master/3678-design-task-manager) |
 ## Matrix
 |  |
 | ------- |
@@ -527,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | [0225-implement-stack-using-queues](https://github.com/marmiju/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0969-number-of-recent-calls](https://github.com/marmiju/LeetCode/tree/master/0969-number-of-recent-calls) |
 | [2429-design-a-food-rating-system](https://github.com/marmiju/LeetCode/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/marmiju/LeetCode/tree/master/3678-design-task-manager) |
 ## Data Stream
 |  |
 | ------- |
@@ -593,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/marmiju/LeetCode/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/marmiju/LeetCode/tree/master/3678-design-task-manager) |
 ## Database
 |  |
 | ------- |
