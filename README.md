@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | [1848-sum-of-unique-elements](https://github.com/marmiju/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [1917-maximum-average-pass-ratio](https://github.com/marmiju/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/marmiju/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
+| [2023-design-movie-rental-system](https://github.com/marmiju/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/marmiju/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/marmiju/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/marmiju/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | [1834-minimum-number-of-people-to-teach](https://github.com/marmiju/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1848-sum-of-unique-elements](https://github.com/marmiju/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/marmiju/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2023-design-movie-rental-system](https://github.com/marmiju/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/marmiju/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/marmiju/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/marmiju/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
@@ -432,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | [0506-relative-ranks](https://github.com/marmiju/LeetCode/tree/master/0506-relative-ranks) |
 | [0948-sort-an-array](https://github.com/marmiju/LeetCode/tree/master/0948-sort-an-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/marmiju/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
+| [2023-design-movie-rental-system](https://github.com/marmiju/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/marmiju/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/marmiju/LeetCode/tree/master/3678-design-task-manager) |
 ## Matrix
@@ -532,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/marmiju/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0969-number-of-recent-calls](https://github.com/marmiju/LeetCode/tree/master/0969-number-of-recent-calls) |
+| [2023-design-movie-rental-system](https://github.com/marmiju/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/marmiju/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/marmiju/LeetCode/tree/master/3678-design-task-manager) |
 | [3827-implement-router](https://github.com/marmiju/LeetCode/tree/master/3827-implement-router) |
@@ -600,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 ## Ordered Set
 |  |
 | ------- |
+| [2023-design-movie-rental-system](https://github.com/marmiju/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/marmiju/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/marmiju/LeetCode/tree/master/3678-design-task-manager) |
 | [3827-implement-router](https://github.com/marmiju/LeetCode/tree/master/3827-implement-router) |
