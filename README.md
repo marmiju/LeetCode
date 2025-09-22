@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/marmiju/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3194-find-words-containing-character](https://github.com/marmiju/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/marmiju/LeetCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/marmiju/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/marmiju/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/marmiju/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3324-split-the-array](https://github.com/marmiju/LeetCode/tree/master/3324-split-the-array) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | [2429-design-a-food-rating-system](https://github.com/marmiju/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/marmiju/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/marmiju/LeetCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/marmiju/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3324-split-the-array](https://github.com/marmiju/LeetCode/tree/master/3324-split-the-array) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/marmiju/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3678-design-task-manager](https://github.com/marmiju/LeetCode/tree/master/3678-design-task-manager) |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/marmiju/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/marmiju/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/marmiju/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/marmiju/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3324-split-the-array](https://github.com/marmiju/LeetCode/tree/master/3324-split-the-array) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/marmiju/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/marmiju/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
