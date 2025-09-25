@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | [0074-search-a-2d-matrix](https://github.com/marmiju/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/marmiju/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/marmiju/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0120-triangle](https://github.com/marmiju/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/marmiju/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/marmiju/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/marmiju/LeetCode/tree/master/0136-single-number) |
@@ -522,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/marmiju/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/marmiju/LeetCode/tree/master/0053-maximum-subarray) |
+| [0120-triangle](https://github.com/marmiju/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/marmiju/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/marmiju/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/marmiju/LeetCode/tree/master/0392-is-subsequence) |
