@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | [0745-find-smallest-letter-greater-than-target](https://github.com/marmiju/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/marmiju/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/marmiju/LeetCode/tree/master/0792-binary-search) |
+| [0830-largest-triangle-area](https://github.com/marmiju/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0837-most-common-word](https://github.com/marmiju/LeetCode/tree/master/0837-most-common-word) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/marmiju/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0924-fair-candy-swap](https://github.com/marmiju/LeetCode/tree/master/0924-fair-candy-swap) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | [0326-power-of-three](https://github.com/marmiju/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/marmiju/LeetCode/tree/master/0342-power-of-four) |
 | [0628-maximum-product-of-three-numbers](https://github.com/marmiju/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0830-largest-triangle-area](https://github.com/marmiju/LeetCode/tree/master/0830-largest-triangle-area) |
 | [1013-fibonacci-number](https://github.com/marmiju/LeetCode/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/marmiju/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/marmiju/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -579,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 ## Geometry
 |  |
 | ------- |
+| [0830-largest-triangle-area](https://github.com/marmiju/LeetCode/tree/master/0830-largest-triangle-area) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/marmiju/LeetCode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/marmiju/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Enumeration
