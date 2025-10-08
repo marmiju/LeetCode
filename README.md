@@ -307,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | [0455-assign-cookies](https://github.com/marmiju/LeetCode/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/marmiju/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/marmiju/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0874-backspace-string-compare](https://github.com/marmiju/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/marmiju/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/marmiju/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0953-reverse-only-letters](https://github.com/marmiju/LeetCode/tree/master/0953-reverse-only-letters) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | [0680-valid-palindrome-ii](https://github.com/marmiju/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0742-to-lower-case](https://github.com/marmiju/LeetCode/tree/master/0742-to-lower-case) |
 | [0837-most-common-word](https://github.com/marmiju/LeetCode/tree/master/0837-most-common-word) |
+| [0874-backspace-string-compare](https://github.com/marmiju/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0952-word-subsets](https://github.com/marmiju/LeetCode/tree/master/0952-word-subsets) |
 | [0953-reverse-only-letters](https://github.com/marmiju/LeetCode/tree/master/0953-reverse-only-letters) |
 | [1006-vowel-spellchecker](https://github.com/marmiju/LeetCode/tree/master/1006-vowel-spellchecker) |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | [0503-next-greater-element-ii](https://github.com/marmiju/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/marmiju/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/marmiju/LeetCode/tree/master/0735-asteroid-collision) |
+| [0874-backspace-string-compare](https://github.com/marmiju/LeetCode/tree/master/0874-backspace-string-compare) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/marmiju/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2470-removing-stars-from-a-string](https://github.com/marmiju/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Tree
@@ -498,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | [0498-diagonal-traverse](https://github.com/marmiju/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/marmiju/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/marmiju/LeetCode/tree/master/0735-asteroid-collision) |
+| [0874-backspace-string-compare](https://github.com/marmiju/LeetCode/tree/master/0874-backspace-string-compare) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/marmiju/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2428-equal-row-and-column-pairs](https://github.com/marmiju/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/marmiju/LeetCode/tree/master/2470-removing-stars-from-a-string) |
