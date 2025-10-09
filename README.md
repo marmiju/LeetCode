@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | [1950-sign-of-the-product-of-an-array](https://github.com/marmiju/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2023-design-movie-rental-system](https://github.com/marmiju/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/marmiju/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2195-time-needed-to-buy-tickets](https://github.com/marmiju/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/marmiju/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/marmiju/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2429-design-a-food-rating-system](https://github.com/marmiju/LeetCode/tree/master/2429-design-a-food-rating-system) |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | [0232-implement-queue-using-stacks](https://github.com/marmiju/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/marmiju/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0969-number-of-recent-calls](https://github.com/marmiju/LeetCode/tree/master/0969-number-of-recent-calls) |
+| [2195-time-needed-to-buy-tickets](https://github.com/marmiju/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/marmiju/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3827-implement-router](https://github.com/marmiju/LeetCode/tree/master/3827-implement-router) |
 ## Greedy
@@ -502,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | [0682-baseball-game](https://github.com/marmiju/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/marmiju/LeetCode/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/marmiju/LeetCode/tree/master/0874-backspace-string-compare) |
+| [2195-time-needed-to-buy-tickets](https://github.com/marmiju/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/marmiju/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2428-equal-row-and-column-pairs](https://github.com/marmiju/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/marmiju/LeetCode/tree/master/2470-removing-stars-from-a-string) |
