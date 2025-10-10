@@ -1,18 +1,16 @@
 class Solution:
     def nextGreaterElements(self, nums: List[int]) -> List[int]:
         n = len(nums)
-        result = [-1] * n  # pre-size with -1 defaults
-        
-        for i in range(n):
-            # look for the next greater by scanning forward (with wrap)
-            for j in range(1, n):
-                nxt = nums[(i + j) % n]
-                if nxt > nums[i]:
-                    result[i] = nxt
-                    break
-        
-        return result
+        ans = [-1] * n
+        st = []
 
+        for i in range(2*n - 1, -1, -1):
+            while st and nums[st[-1]] <= nums[i % n]:
+                st.pop()
 
+            if st:
+                ans[i % n] = nums[st[-1]]
 
-        
+            st.append(i % n)
+
+        return ans
