@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | [1834-minimum-number-of-people-to-teach](https://github.com/marmiju/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1848-sum-of-unique-elements](https://github.com/marmiju/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [1917-maximum-average-pass-ratio](https://github.com/marmiju/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
+| [1929-concatenation-of-array](https://github.com/marmiju/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/marmiju/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2023-design-movie-rental-system](https://github.com/marmiju/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/marmiju/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
@@ -515,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | [0682-baseball-game](https://github.com/marmiju/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/marmiju/LeetCode/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/marmiju/LeetCode/tree/master/0874-backspace-string-compare) |
+| [1929-concatenation-of-array](https://github.com/marmiju/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2195-time-needed-to-buy-tickets](https://github.com/marmiju/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/marmiju/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/marmiju/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
