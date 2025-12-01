@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | [2551-apply-operations-to-an-array](https://github.com/marmiju/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/marmiju/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/marmiju/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/marmiju/LeetCode/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3194-find-words-containing-character](https://github.com/marmiju/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/marmiju/LeetCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/marmiju/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | [0645-set-mismatch](https://github.com/marmiju/LeetCode/tree/master/0645-set-mismatch) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/marmiju/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/marmiju/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/marmiju/LeetCode/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/marmiju/LeetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Sorting
 |  |
@@ -574,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview!\n
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/marmiju/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/marmiju/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/marmiju/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/marmiju/LeetCode/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 ## Design
 |  |
 | ------- |
